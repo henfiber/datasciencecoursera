@@ -1,7 +1,0 @@
-# Help Documentation for our shiny app!
-
-This app determine an n-th root of a number to a desired accuracy. 
-The number may be either positive or negative, but only an odd root may be requested for negative numbers.
-Once you have submitted your inputs, press the **Go** button and the result will appear on the right frame.
-
-
